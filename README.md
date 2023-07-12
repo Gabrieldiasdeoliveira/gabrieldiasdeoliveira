@@ -21,6 +21,8 @@ Atualmente, estou dedicando um tempinho para o Python.
 </div>
 
 
+
+
 - 🔭 Hoje eu trabalho com R,Power BI, SQL e Excel.
 - 🌱 Estudando Data Science.
 - 😄 Pronouns: ele/dele
