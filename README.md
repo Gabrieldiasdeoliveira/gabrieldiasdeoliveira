@@ -11,6 +11,10 @@ Quem é o Gabriel enquanto estudante?
 Passo boa parte do tempo estudando sobre tecnologia, principalmente sobre as linguagens R, SQL e DAX. Gosto de criar painéis (dashboards) no Power BI. A cada dia, descubro uma nova função na ferramenta e nunca abandono o bom e velho Excel.
 Atualmente, estou dedicando um tempinho para o Python.
 
+- 🔭 Hoje eu trabalho com R,Power BI, SQL e Excel.
+- 🌱 Estudando Data Science.
+- 😄 Pronouns: ele/dele
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -23,7 +27,5 @@ Atualmente, estou dedicando um tempinho para o Python.
 
 
 
-- 🔭 Hoje eu trabalho com R,Power BI, SQL e Excel.
-- 🌱 Estudando Data Science.
-- 😄 Pronouns: ele/dele
+
 -->
