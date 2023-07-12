@@ -31,3 +31,9 @@ Atualmente, estou dedicando um tempinho para o Python.
     <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
   </a>
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrieldiasdeoliveira/" target="_blank" rel="noopener noreferrer">
+    <img src="caminho-da-imagem-do-linkedin" alt="LinkedIn" width="30" height="30">
+  </a>
+</div>
