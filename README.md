@@ -17,7 +17,7 @@ Atualmente, estou dedicando um tempinho para o Python.
 
 <div>
 <a href="https://sites.google.com/view/portflio-gabriel/in%C3%ADcio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldiasdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldiasdeoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiasdeoliveira&layout=compact&lang_count=16&theme=dracula"/>
 <div>
 
