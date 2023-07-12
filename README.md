@@ -38,7 +38,8 @@ Atualmente, estou dedicando um tempinho para o Python.
   
 <div>
   <a href="https://www.linkedin.com/in/gabrieldiasdeoliveira/" target="_blank" rel="noopener noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30" height="30">
   </a>
 </div>
+
 
