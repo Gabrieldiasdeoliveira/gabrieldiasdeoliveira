@@ -21,6 +21,8 @@ Atualmente, estou dedicando um tempinho para o Python.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiasdeoliveira&layout=compact&lang_count=16&theme=dracula"/>
 <div>
 
+##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
