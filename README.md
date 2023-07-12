@@ -31,5 +31,3 @@ Atualmente, estou dedicando um tempinho para o Python.
     <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
   </a>
 </div>
-
-</div>
