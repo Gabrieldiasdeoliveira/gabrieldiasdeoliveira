@@ -41,9 +41,3 @@ Atualmente, estou dedicando um tempinho para o Python.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="60" height="20">
   </a>
 </div>
-
-##
-[![Snake Game](https://github-readme-snake.vercel.app/api/snake.svg?user=gabrieldiasdeoliveira)](URL_DO_SEU_ARQUIVO_HTML)
-
-
-
