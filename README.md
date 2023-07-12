@@ -38,6 +38,7 @@ Atualmente, estou dedicando um tempinho para o Python.
   
 <div>
   <a href="https://www.linkedin.com/in/gabrieldiasdeoliveira/" target="_blank" rel="noopener noreferrer">
-    <img src="caminho-da-imagem-do-linkedin" alt="LinkedIn" width="30" height="30">
+    <i class="fab fa-linkedin" style="font-size: 30px;"></i>
   </a>
 </div>
+
