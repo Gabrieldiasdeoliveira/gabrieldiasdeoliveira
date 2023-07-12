@@ -26,12 +26,10 @@ Atualmente, estou dedicando um tempinho para o Python.
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
-
-</div>
-
 <div style="display: inline_block">
   <a href="https://sites.google.com/view/portflio-gabriel/in%C3%ADcio" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
   </a>
+</div>
+
 </div>
