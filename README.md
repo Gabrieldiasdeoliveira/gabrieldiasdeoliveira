@@ -42,4 +42,7 @@ Atualmente, estou dedicando um tempinho para o Python.
   </a>
 </div>
 
+[![Snake Game](https://github-readme-snake.vercel.app/api/snake.svg?user=gabrieldiasdeoliveira)](URL_DO_SEU_ARQUIVO_HTML)
+
+
 
