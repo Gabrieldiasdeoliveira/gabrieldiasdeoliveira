@@ -2,17 +2,15 @@
 
 Quem é o Gabriel enquanto pessoa? 
 
-Pai do Téo 👶🏾 Marido da Bia (Professora)👩🏽‍🏫, Surfista 🏄 nas horas vagas e apaixonado por bicicletas 🚲
+Pai do Téo 👶🏾 Marido da Bia (Professora)👩🏽‍🏫 e apaixonado por bicicletas 🚲
 
 Quem é o Gabriel enquanto estudante?
 
-🧑🏾‍🎓 Bacharel em Estatística e cursando pós-graduação em Gestão de Vendas
+🧑🏾‍🎓 Bacharel em Estatística e fiz cursos de programação em python, SQL
 
-Passo boa parte do tempo estudando sobre tecnologia, principalmente sobre as linguagens R, SQL e DAX. Gosto de criar painéis (dashboards) no Power BI. A cada dia, descubro uma nova função na ferramenta e nunca abandono o bom e velho Excel.
-Atualmente, estou dedicando um tempinho para o Python.
 
-- 🔭 Hoje eu trabalho com R,Power BI, SQL e Excel.
-- 🌱 Estudando Performance Comercial.
+- 🔭 Hoje eu trabalho com Python,Power BI, SQL e Excel.
+- 🌱 Estudando Engenharia de Dados 
 - 😄 Pronouns: ele/dele
 
 <div>
