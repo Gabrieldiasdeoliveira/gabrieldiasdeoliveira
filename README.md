@@ -6,12 +6,13 @@ Pai do Téo 👶🏾 Marido da Bia (Professora)👩🏽‍🏫 e apaixonado por 
 
 Quem é o Gabriel enquanto estudante?
 
-🧑🏾‍🎓 Bacharel em Estatística e fiz cursos de programação em python, SQL
+Bacharel em Estatística
+MBA em Engenharia de Dados
 
 
-- 🔭 Hoje eu trabalho com Python,Power BI, SQL e Excel.
-- 🌱 Estudando Engenharia de Dados 
-- 😄 Pronouns: ele/dele
+
+Hoje eu trabalho com Python,Power BI, SQL, DBT, Airflow e AWS.
+Pronouns: ele/dele
 
 <div>
 <a href="https://github.com/Gabrieldiasdeoliveira">
