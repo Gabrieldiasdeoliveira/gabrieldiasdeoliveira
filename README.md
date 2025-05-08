@@ -7,7 +7,7 @@ Pai do Téo 👶🏾 Marido da Bia (Professora)👩🏽‍🏫 e apaixonado por 
 Quem é o Gabriel enquanto estudante?
 
 Bacharel em Estatística
-Pós Custos, Pricing e Data Analytics
+Pós em gestão de contas e apaixonado por tecnologia. 
 
 
 
