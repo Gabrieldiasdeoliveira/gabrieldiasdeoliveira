@@ -7,12 +7,10 @@ Pai do Téo 👶🏾 Marido da Bia (Professora)👩🏽‍🏫 e apaixonado por 
 Quem é o Gabriel enquanto estudante?
 
 Bacharel em Estatística
-Pós em gestão de contas e apaixonado por tecnologia. 
+Pós em Artificial Intelligence for Business
 
 
-
-
-Hoje eu trabalho com Python,Power BI, SQL, modelagem estatística, Machine Learning.
+Hoje eu trabalho com Python,Power BI, AWS, SQL, modelagem estatística, Machine Learning, Inteligencia Artificial com foco no Comercial.
 Pronouns: ele/dele
 
 <div>
